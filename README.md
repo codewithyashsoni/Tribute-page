@@ -13,3 +13,6 @@ Through this project, I aimed to create an informative and visually appealing we
 ## Tech Stack
 - HTML: For structuring the content of the page.
 - CSS: For styling and enhancing the visual appeal of the page.
+
+## Screenshots
+<img src="https://github.com/codewithyashsoni/Tribute-page/blob/1acc192edde466c925b4704fc8ca6bdd9ba284b3/1.png" alt="First scrrenshot of website">
