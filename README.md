@@ -1,2 +1,15 @@
-# Tribute-page
-This project is a tribute page dedicated to the life and legacy of Albert Einstein, one of the most influential physicists in history. The page provides a brief overview of his life, achievements, and contributions to science, along with an aesthetically pleasing design built using HTML and CSS.
+# Albert Einstein Tribute Page
+This project is a heartfelt tribute to Albert Einstein, one of the greatest minds in human history. The page highlights the life, achievements, and enduring legacy of the renowned physicist who transformed our understanding of the universe. Designed with simplicity and elegance, the page reflects Einstein's spirit of curiosity and innovation.
+
+Through this project, I aimed to create an informative and visually appealing web page using only HTML and CSS, showcasing my web development skills while honoring an extraordinary figure in science.
+
+## Features
+- Responsive Design: The page is optimized to look good on various devices.
+- Clean Layout: Focused on presenting content clearly and attractively.
+- Biography Section: Includes a brief overview of Einstein's life and major accomplishments.
+- Quotes Section: Features some of Albert Einstein's most inspirational quotes.
+- Image Gallery: Includes images related to Albert Einstein and his work.
+
+## Tech Stack
+- HTML: For structuring the content of the page.
+- CSS: For styling and enhancing the visual appeal of the page.
