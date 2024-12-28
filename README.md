@@ -14,6 +14,9 @@ Through this project, I aimed to create an informative and visually appealing we
 - HTML: For structuring the content of the page.
 - CSS: For styling and enhancing the visual appeal of the page.
 
+## Demo
+[View the Live Demo](https://codewithyashsoni.github.io/Tribute-page/)
+
 ## How to view the Project
 1. Clone the repository:
     <code>
