@@ -15,7 +15,7 @@ Through this project, I aimed to create an informative and visually appealing we
 - CSS: For styling and enhancing the visual appeal of the page.
 
 ## Demo
-[View the Live Demo](https://codewithyashsoni.github.io/Tribute-page/)
+<a href="https://codewithyashsoni.github.io/Tribute-page/" alt="Live Demo of Project" target="_blank">View the Live Demo</a>
 
 ## How to view the Project
 1. Clone the repository:
